@@ -6,7 +6,7 @@ export default function Pokedex () {
     <KeyboardAvoidingView style={styles.container}>
     <View>
 
-    <Text style={styles.number}>#003</Text> 
+    <Text style={styles.number}>#001</Text> 
     <Text style={styles.pokemonName}>Bulbasaur</Text>
     <Text style={styles.miniInfo}>Seed Pokemon</Text>
 
